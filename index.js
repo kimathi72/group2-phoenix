@@ -65,6 +65,6 @@ console.log(staircase(30));
 
 
 
-}
+// }
 
-manipulateDom();
+// manipulateDom();
