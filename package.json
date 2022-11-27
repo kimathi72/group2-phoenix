@@ -1,0 +1,19 @@
+{
+  "name": "group2-phoenix",
+  "version": "1.0.0",
+  "description": "group work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimathi72/group2-phoenix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimathi72/group2-phoenix/issues"
+  },
+  "homepage": "https://github.com/kimathi72/group2-phoenix#readme"
+}
