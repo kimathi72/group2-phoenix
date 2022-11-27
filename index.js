@@ -20,7 +20,8 @@ staircase = (num) => {       //define arrow function 'staircase' that console lo
 
         
     }
-    return num;
+    let closeTag = "The number of steps is " + num ; 
+    return closeTag;
 
 
 
